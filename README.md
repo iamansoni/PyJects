@@ -1,4 +1,4 @@
-# Python-Projects
+# Pyjects
 This repository contains all the Python Projects created by me.
 
 ## [Jarvis: AI Desktop Voice Assistant](https://github.com/iamansoni/Python-Projects/blob/master/Project_Jarvis.py)
